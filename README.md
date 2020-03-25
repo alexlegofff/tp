@@ -4,7 +4,7 @@
 
 ♦ git clone https://github.com/alexlegofff/tp
 
-♦ cd hello-world
+♦ cd tp
 
 ♦ git remote
 
